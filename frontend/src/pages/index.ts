@@ -1,0 +1,9 @@
+export { LoginPage } from './LoginPage';
+export { RegisterPage } from './RegisterPage';
+export { DashboardPage } from './DashboardPage';
+export { CreateLoanPage } from './CreateLoanPage';
+export { LoansPage } from './LoansPage';
+export { LoanDetailsPage } from './LoanDetailsPage';
+export { CustomersPage } from './CustomersPage';
+export { ReportsPage } from './ReportsPage';
+export { SettingsPage } from './SettingsPage';
