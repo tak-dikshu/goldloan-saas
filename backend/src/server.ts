@@ -30,7 +30,7 @@ app.use(helmet());
 // CORS
 app.use(
   cors({
-    origin: config.corsOrigin,
+    origin: true, // allow dynamic origins (Netlify, custom domains)
     credentials: true,
   })
 );
